@@ -6,7 +6,7 @@
            //Grade_System
 			echo "<br>";
 			$name = "Celyssa Chryse Riego de Dios";
-			$grade = 83;
+			$grade = 56;
 			if ($grade >= 70) 
 			{
 				echo "Name: ".$name . "<br>Grade: ". $grade . ", PASSED<br><br>";
